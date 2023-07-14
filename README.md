@@ -22,5 +22,4 @@
 
 ------
 
-[Nguyen Thi Thanh Hoa](https://github.com/huuminh365)
-
+![](https://komarev.com/ghpvc/?username=huuminh365&color=blue)
